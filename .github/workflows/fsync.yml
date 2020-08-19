@@ -1,0 +1,12 @@
+name: fsync
+
+on: push
+
+jobs:
+  file_sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+      - name: gh_fsync
+        uses: Matt-Gleich/gh_fsync@v0.1.0
