@@ -11,4 +11,4 @@ jobs:
       - name: gh_fsync
         uses: Matt-Gleich/gh_fsync@master
         with:
-          commit_message: 'Same commit message'
+          commit_message: 'Some commit message'
