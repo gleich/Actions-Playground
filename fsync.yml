@@ -1,9 +1,14 @@
-variables:
-  project_name: TOP LEVEL VARIABLE
+replace:
+  - before: project_name
+    after: gh_fsync
 files:
   - name: CONTRIBUTING.md
     source: https://github.com/Matt-Gleich/go_template/blob/master/CONTRIBUTING.md
-    variables:
-      project_name: bruh
+    replace:
+      - before: project_name
+        after: testing
   - name: LICENSE.md
     source: https://github.com/Matt-Gleich/go_template/blob/master/LICENSE.md
+    replace:
+      - before: docker_username
+        after: TESTING TESTING
