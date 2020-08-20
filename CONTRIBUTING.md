@@ -1,4 +1,4 @@
-# Contributing
+<!-- # Contributing
 
 👋 Welcome to TESTING TESTING! Thank you for showing interest in contributing to TESTING TESTING, we would love to have your contribution. Below are some requirements for contributing. Please read carefully!
 
@@ -43,4 +43,4 @@ Once you have those installed please run `make local-test` and `make local-lint`
 
 ## ℹ️ General
 
-- When you take on an issue please set yourself as the assignee.
+- When you take on an issue please set yourself as the assignee. -->

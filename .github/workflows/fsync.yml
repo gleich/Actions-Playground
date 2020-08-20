@@ -10,3 +10,5 @@ jobs:
         uses: actions/checkout@v2
       - name: gh_fsync
         uses: Matt-Gleich/gh_fsync@master
+        with:
+          commit_message: 'Same commit message'
