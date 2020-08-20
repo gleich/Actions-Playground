@@ -1,6 +1,6 @@
 # Contributing
 
-👋 Welcome to b r u h! Thank you for showing interest in contributing to b r u h, we would love to have your contribution. Below are some requirements for contributing. Please read carefully!
+👋 Welcome to bruh! Thank you for showing interest in contributing to bruh, we would love to have your contribution. Below are some requirements for contributing. Please read carefully!
 
 ## 🐛 Requesting Features/Reporting Bugs
 
