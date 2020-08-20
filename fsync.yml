@@ -2,6 +2,6 @@ variables:
   docker_username: mattgleich
 files:
   - name: CONTRIBUTING.md
-    url: https://github.com/Matt-Gleich/go_template/blob/master/CONTRIBUTING.md
+    source: https://github.com/Matt-Gleich/go_template/blob/master/CONTRIBUTING.md
     variables:
-      project_name: Action playground
+      project_name: b r u h
