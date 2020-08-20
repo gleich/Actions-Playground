@@ -7,5 +7,3 @@ files:
       project_name: bruh
   - name: LICENSE.md
     source: https://github.com/Matt-Gleich/go_template/blob/master/LICENSE.md
-    variables:
-      project_name: bruh
