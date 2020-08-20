@@ -1,6 +1,6 @@
-<!-- # Contributing
+# Contributing
 
-👋 Welcome to TESTING TESTING! Thank you for showing interest in contributing to TESTING TESTING, we would love to have your contribution. Below are some requirements for contributing. Please read carefully!
+👋 Welcome to Action playground! Thank you for showing interest in contributing to Action playground, we would love to have your contribution. Below are some requirements for contributing. Please read carefully!
 
 ## 🐛 Requesting Features/Reporting Bugs
 
@@ -43,4 +43,4 @@ Once you have those installed please run `make local-test` and `make local-lint`
 
 ## ℹ️ General
 
-- When you take on an issue please set yourself as the assignee. -->
+- When you take on an issue please set yourself as the assignee.
