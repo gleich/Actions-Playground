@@ -4,4 +4,4 @@ files:
   - name: CONTRIBUTING.md
     url: https://github.com/Matt-Gleich/go_template/blob/master/CONTRIBUTING.md
     variables:
-      project_name: TESTING TESTING
+      project_name: Action playground
