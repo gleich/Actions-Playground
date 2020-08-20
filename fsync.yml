@@ -1,7 +1,11 @@
 variables:
-  docker_username: mattgleich
+  project_name: TOP LEVEL VARIABLE
 files:
   - name: CONTRIBUTING.md
     source: https://github.com/Matt-Gleich/go_template/blob/master/CONTRIBUTING.md
     variables:
-      project_name: b r u h
+      project_name: bruh
+  - name: LICENSE.md
+    source: https://github.com/Matt-Gleich/go_template/blob/master/LICENSE.md
+    variables:
+      project_name: bruh
