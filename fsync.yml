@@ -6,7 +6,7 @@ files:
     source: https://github.com/Matt-Gleich/go_template/blob/master/CONTRIBUTING.md
     replace:
       - before: project_name
-        after: testing
+        after: ahhhhh please work
   - name: LICENSE.md
     source: https://github.com/Matt-Gleich/go_template/blob/master/LICENSE.md
     replace:

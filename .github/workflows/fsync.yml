@@ -3,7 +3,7 @@ name: fsync
 on:
   push:
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: '*/10 * * * *'
 
 jobs:
   file_sync:
