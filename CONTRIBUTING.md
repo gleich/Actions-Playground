@@ -1,6 +1,6 @@
 # Contributing
 
-👋 Welcome to testing! Thank you for showing interest in contributing to testing, we would love to have your contribution. Below are some details on how to contribute to testing. Please read carefully!
+👋 Welcome to project_name! Thank you for showing interest in contributing to project_name, we would love to have your contribution. Below are some details on how to contribute to project_name. Please read carefully!
 
 ## 🐛 Requesting Features/Reporting Bugs
 
