@@ -1,6 +1,8 @@
 name: fsync
 
-on: push
+on:
+  schedule:
+    - cron: '*/5 * * * *' # Run every 2 minutes
 
 jobs:
   file_sync:
