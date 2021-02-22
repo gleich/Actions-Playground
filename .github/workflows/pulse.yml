@@ -1,0 +1,13 @@
+name: Rootly Pulse
+
+on: push
+
+jobs:
+  pulse:
+    runs-on: ubuntu-latest
+    steps:
+      - name: rootly-pulse
+        uses: rootly-io/pulse-action@main
+        with:
+          api_key: ${{ secrets.ROOTLY_API_KEY }}
+          summary: Sent from GitHub action!
