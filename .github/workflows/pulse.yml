@@ -11,5 +11,5 @@ jobs:
         with:
           api_key: ${{ secrets.ROOTLY_API_KEY }}
           summary: Sent from GitHub action!
-          environment: production
-          service: elasticsearch-prod
+          environment: production,staging
+          service: elasticsearch-prod,customer-postgresql-prod
